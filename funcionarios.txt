@@ -1,0 +1,11 @@
+00,Analista,João de Almeida,1500.0
+01,Gerente,Maria Silva,2000.0
+02,Assistente,Carlos Oliveira,1200.0
+03,Analista,Pedro Cesar,1500.0
+04,Gerente,Maria Alice,2000.0
+05,Assistente,Roberto Souza,1200.0
+06,Analista,João da Silva,1500.0
+07,Gerente,Marina Oliveira,2000.0
+08,Assistente,Carlos Jose,1200.0
+09,Analista,Pedro Santos,1500.0
+10,Gerente,Mariana Carvalho,2000.0
